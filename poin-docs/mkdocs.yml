@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Poin Docs
+theme: readthedocs
+nav:
+  - Home: index.md
+  - Usage: how.md
+  - Details:
+    - 'Guide': 'guide/detail.md'
